@@ -32,15 +32,13 @@ The **Crime Rate Predictor** is a Python-based application that forecasts future
 
 ## 📁 Project Structure
 
-Crime detection/
-├── data/
-│ └── crime_data.csv # Historical crime data
-├── logic/
-│ ├── predictor.py # Data loading and prediction logic
-│ ├── visualizer.py # Crime trend plotting functions
-│ └── combined_visualizer.py # Combined crimes visualization (bar & pie charts)
-├── main_app.py # Main application script with user interface
-└── README.md # Project overview and instructions
+Crime detection
+1. data/crime_data.csv                 # Historical crime data
+2. logic/predictor.py                  # Data loading and prediction logic
+3. logic/visualizer.py                 # Crime trend plotting functions
+4. logic/combined_visualizer.py        # Combined crimes visualization (bar & pie charts)
+5. main_app.py                         # Main application script with user interface
+6. README.md                           # Project overview and instructions
 
 ---
 
