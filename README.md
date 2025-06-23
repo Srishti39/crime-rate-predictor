@@ -1,4 +1,4 @@
-# Crime Rate Predictor — India (2025 Forecast)
+# Crime Rate Predictor — India
 
 The **Crime Rate Predictor** is a Python-based application that forecasts future crime trends in major Indian cities using historical data and machine learning. It provides valuable insights through visualizations and helps raise awareness with safety tips.
 
